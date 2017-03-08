@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
                         "template/test/test_helper.rb",
                         "template/Gemfile",
                         "template/README.md",
-                        "template/Rakefile.md",
+                        "template/Rakefile",
                         "Rakefile",
                         "Gemfile",
                         "README.md",
