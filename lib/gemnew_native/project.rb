@@ -1,7 +1,7 @@
 require 'erb'
 require 'fileutils'
 
-module Rubynew
+module GemnewNative
   class Project
 
     def initialize(name)

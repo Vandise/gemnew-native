@@ -4,7 +4,6 @@ This software...
 
 ## Installation
 
-
 ## Usage
 
 ## Contributing
