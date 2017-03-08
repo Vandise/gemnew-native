@@ -1,6 +1,6 @@
 # Gemnew Native
 
-Creates a template for creating your own native C ruby gems.
+Creates a template for creating your own native C ruby gems. Heavily influenced by Brian Hogan's `rubynew`, which can be found [Here](https://github.com/napcs/rubynew)
 
 ## Installation
 
